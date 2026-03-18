@@ -13,11 +13,11 @@ I'm a **Cloud Solutions Architect** passionate about designing resilient cloud-n
 | Domain | Technologies |
 |---|---|
 | **Cloud** | Azure (primary), AWS |
-| **IaC** | Terraform, Bicep, ARM Templates |
+| **IaC** | Terraform, ARM Templates |
 | **Scripting** | PowerShell, Bash, Python |
 | **CI/CD** | GitHub Actions, Azure DevOps |
 | **Identity** | Entra ID, Active Directory, IAM |
-| **Monitoring** | Azure Monitor, KQL, Azure Arc |
+| **Monitoring** | Azure Monitor, Graphana, Azure Arc |
 | **Containers** | Docker, Kubernetes, AKS |
 | **Windows Server** | Failover Clustering, Hyper-V, DSC, GPO |
 
