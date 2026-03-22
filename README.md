@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Kaustubh Sharma
 
-### ☁️ Cloud Solutions Architect | Building scalable infrastructure on Azure
+### ☁️  Solutions Architect | Building scalable infrastructure on Azure
 
 I'm a **Cloud Solutions Architect** passionate about designing resilient cloud-native solutions, automating infrastructure at scale, and helping teams modernize their workloads on Azure. I'm working toward becoming a **Principal Solutions Architect** — always leveling up.
 
